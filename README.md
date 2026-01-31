@@ -16,7 +16,7 @@ Installation
 Install the skill using the skills installer (example):
 
 ```
-npx skills add https://github.com/anthropics/skills --skill bib-checker
+npx skills add https://github.com/ChambersXDU/bib-checker --skill bib-checker
 ```
 
 Verification priority (recommended order)
